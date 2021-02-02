@@ -2,15 +2,21 @@
 	"users": [
 		{
 			"id": 1,
+			"email": "JSmith@email.co",
+			"fieldName": ["advances", "alerts", "other"],
 			"firstName": "John",
 			"lastName": "Smith",
-			"email": "JSmith@email.co"
+			"org": "test org 1",
+			"euResident": "no"
 		},
 		{
 			"id": 2,
+			"email": "BRob@email.co",
+			"fieldName": ["advances"],
 			"firstName": "Bob",
 			"lastName": "Robert",
-			"email": "BRob@email.co"
+			"org": "test org 2",
+			"euResident": "yes"
 		}
 	]
 }
